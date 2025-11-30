@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2025-11-28T17:49:59.173032Z",
+    "platform": "Instagram",
+    "content_type": "Caption",
+    "tone": "Professional",
+    "topic": "fitness",
+    "variations": [
+      {
+        "variation": 1,
+        "text": "fitness — Professional style. Hook #1 🚀 CTA: Learn more! #demo"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-28T14:36:21.040890Z",
+    "platform": "Instagram",
+    "content_type": "Caption",
+    "tone": "Professional",
+    "topic": "fitness",
+    "variations": [
+      {
+        "variation": 1,
+        "text": "fitness — Professional style. Hook #1 🚀 CTA: Learn more! #demo"
+      }
+    ]
+  }
+]
